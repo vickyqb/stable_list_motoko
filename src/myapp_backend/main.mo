@@ -1,6 +1,5 @@
 import List "mo:base/List";
 import Principal "mo:base/Principal";
-import Debug "mo:base/Debug";
 import Source "mo:uuid/async/SourceV4";
 import UUID "mo:uuid/UUID";
 
